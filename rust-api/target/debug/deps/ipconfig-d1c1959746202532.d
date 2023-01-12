@@ -1,0 +1,12 @@
+C:\harsenn\rust-simple-api\rust-api\target\debug\deps\ipconfig-d1c1959746202532.rmeta: C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\lib.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\adapter.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\bindings\mod.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\bindings\win64.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\computer.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\error.rs
+
+C:\harsenn\rust-simple-api\rust-api\target\debug\deps\libipconfig-d1c1959746202532.rlib: C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\lib.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\adapter.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\bindings\mod.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\bindings\win64.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\computer.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\error.rs
+
+C:\harsenn\rust-simple-api\rust-api\target\debug\deps\ipconfig-d1c1959746202532.d: C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\lib.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\adapter.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\bindings\mod.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\bindings\win64.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\computer.rs C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\error.rs
+
+C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\lib.rs:
+C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\adapter.rs:
+C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\bindings\mod.rs:
+C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\bindings\win64.rs:
+C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\computer.rs:
+C:\Users\caesa\.cargo\registry\src\github.com-1ecc6299db9ec823\ipconfig-0.2.2\src\error.rs:
